@@ -1,0 +1,26 @@
+Homebrew_Pro_Installation
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+- brew install --cask visual-studio-code
+- brew install --cask sublime-text
+- brew install --cask jetbrains-toolbox
+- brew install --cask zoom
+- brew install --cask notion
+- brew install --cask zsh
+-- Python
+- NodeJS
+- Java
+ - brew tap adooptopenjdk/openjdk
+ - brew search jdk
+ - brew install --cask adoptopenjdk15
+
+
+Others
+
+- chrome
+- dark reader
+- clipy https://clipy-app.com/​
+- spectacle https://www.spectacleapp.com/​
+- https://aerialscreensaver.github.io/​
+
