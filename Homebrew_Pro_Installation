@@ -24,3 +24,7 @@ Others
 - spectacle https://www.spectacleapp.com/​
 - https://aerialscreensaver.github.io/​
 
+clean terminal on the VSC 
+import os
+clear = lambda: os.system('cls')
+clear()
