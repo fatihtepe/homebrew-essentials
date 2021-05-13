@@ -15,6 +15,49 @@ Homebrew_Pro_Installation
  - brew search jdk
  - brew install --cask adoptopenjdk15
 
+- brew list --cask  <== List installed applications
+
+- brew update	<== Update brew and cask
+- brew upgrade	<== Upgrade all packages
+- brew list	<== List installed
+- brew outdated	<== What's due for upgrades?
+- brew doctor	<== Diagnose brew issues
+
+brew install git		<== Install a package
+brew uninstall git	<== Remove/Uninstall a package
+brew upgrade git		<== Upgrade a package
+---	---
+brew unlink git		<== Unlink
+brew link git		<== Link
+
+
+- Hiding the beer mug emoji when finishing a build
+
+==>> export HOMEBREW_NO_EMOJI=1
+
+- This sets the HOMEBREW_NO_EMOJI environment variable, causing Homebrew to hide all emoji.
+
+	The beer emoji can also be replaced with other character(s): 
+
+==>> export HOMEBREW_INSTALL_BADGE="☕️ 🐸"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Others
 
