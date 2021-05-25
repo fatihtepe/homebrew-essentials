@@ -1,0 +1,32 @@
+Install Homebrew
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+
+1. brew install cowsay    ====> tux and cow speak
+cowsay ...write whatever you want!
+cowsay -f tux …Everyone loves DevOps
+
+2. brew install fortune      ====> Fortune Cookie
+fortune | cowsay -f ghostbusters
+
+
+3. brew install espeak       ====> Let the Terminal Talk To you
+espeak "What a wonderful day"
+
+
+4. brew install sl   ====> Train
+sl
+
+
+5. brew install figlet  ====> Banners
+figlet DevOps Tayfa!
+figlet Linux Rocks!
+
+
+
+
+
+
+
