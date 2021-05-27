@@ -25,7 +25,7 @@ figlet DevOps Tayfa!
 figlet Linux Rocks!
 
 
-
+-----------
 
 
 
