@@ -25,7 +25,7 @@ figlet DevOps Tayfa!
 figlet Linux Rocks!
 
 
-<<<<<<< HEAD
+
 6. brew install toilet ====>  make a beautiful ASCII picture with your inputs
 - toilet -f mono12 -F gay hello
 - toilet hello
@@ -37,11 +37,6 @@ figlet Linux Rocks!
 
 *** for linux use 
  sudo apt-get install sl, fortune, cowsay, etc. 
-
-
-=======
------------
->>>>>>> 2c5cdc1685ee93a5d61cf790af30c1a44c5cfb7a
 
 
 
