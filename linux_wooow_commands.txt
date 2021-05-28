@@ -25,6 +25,18 @@ figlet DevOps Tayfa!
 figlet Linux Rocks!
 
 
+6. brew install toilet ====>  make a beautiful ASCII picture with your inputs
+- toilet -f mono12 -F gay hello
+- toilet hello
+
+
+7. brew install cmatrix ===>  flying text in the terminal, just like you can see in The Matrix!
+- cmatrix
+
+
+*** for linux use 
+ sudo apt-get install sl, fortune, cowsay, etc. 
+
 
 
 
