@@ -35,3 +35,13 @@ View the entire list of plugins on the Oh-My-ZSH wiki.
 
 
 https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/
+
+
+Powerlevel10k
+
+- brew install romkatv/powerlevel10k/powerlevel10k
+- type p10k configure. Configuration wizard creates ~/.p10k.zsh based on your preferences.
+
+
+
+
