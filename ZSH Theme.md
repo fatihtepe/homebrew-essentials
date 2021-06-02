@@ -40,7 +40,7 @@ https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zs
 Powerlevel10k
 
 - brew install romkatv/powerlevel10k/powerlevel10k
-- type p10k configure. Configuration wizard creates ~/.p10k.zsh based on your preferences.
+- .. type p10k configure. Configuration wizard creates ~/.p10k.zsh based on your preferences.
 
 
 
