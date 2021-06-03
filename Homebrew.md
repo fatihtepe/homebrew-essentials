@@ -43,7 +43,7 @@ brew link git		<== Link
 
 
 
-### How to Avoid Accidentally Deleting Files in Terminal###
+### How to Avoid Accidentally Deleting Files in Terminal
 Techniques for avoiding file deletion disasters on Mac and Linux
 *To install
 - brew install rmtrash
@@ -53,8 +53,7 @@ Techniques for avoiding file deletion disasters on Mac and Linux
 *To Delete
 - rmtrash ./path/to/directory
 - trash-put ./path/to/directory
-
-
+<a href="https://levelup.gitconnected.com/how-to-avoid-accidentally-deleting-files-in-terminal-969d63ab1c02">source</a>
 
 
 
