@@ -52,7 +52,7 @@ Techniques for avoiding file deletion disasters on Mac and Linux
 
 *To Delete
 - rmtrash ./path/to/directory
-- trash-put ./path/to/directory
+- trash-put ./path/to/directory <br>
 <a href="https://levelup.gitconnected.com/how-to-avoid-accidentally-deleting-files-in-terminal-969d63ab1c02">source</a>
 
 
