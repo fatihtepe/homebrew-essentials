@@ -43,13 +43,16 @@ brew link git		<== Link
 
 
 
+### How to Avoid Accidentally Deleting Files in Terminal###
+Techniques for avoiding file deletion disasters on Mac and Linux
+*To install
+- brew install rmtrash
+- brew install trash-cli
+- sudo apt install trash-cli
 
-
-
-
-
-
-
+*To Delete
+- rmtrash ./path/to/directory
+- trash-put ./path/to/directory
 
 
 
