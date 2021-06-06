@@ -56,6 +56,19 @@ Techniques for avoiding file deletion disasters on Mac and Linux
 <a href="https://levelup.gitconnected.com/how-to-avoid-accidentally-deleting-files-in-terminal-969d63ab1c02">source</a>
 
 
+## htop
+htop is an interactive system-monitor, process-viewer, and process-manager. If you ever worked on an Ubuntu server you should be familiar with this. Mac only comes with top
+
+- brew install htop
+linux ubuntu ==> sudo snap install htop
+###
+
+## AWS CLI
+The AWS CLI package is exactly what it sounds like, a CLI tool administrators and engineers can use to manage their cloud infrastructure. Using API commands, you can automate and batch process tedious tasks such as starting and stopping instances or managing data in your S3 buckets.
+
+- brew install awscli
+- linux ubuntu ==> sudo apt install awscli
+
 
 
 
