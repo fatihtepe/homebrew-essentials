@@ -1,3 +1,6 @@
+## Install oh-my-zsh now
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+###
 ZSH Theme
 
 Before jumping into the next few sections, we need to know about ZSH settings. These are stored in a .zshrc file located in your home directory. It’s a hidden file, so you might not see it in your home directory, but you can view it by running open ~/.zshrc from the terminal. Swap out open with your favorite editor command, such as nano, subl or vim.
