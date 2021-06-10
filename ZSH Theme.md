@@ -45,14 +45,11 @@ Powerlevel10k
 - brew install romkatv/powerlevel10k/powerlevel10k
 - .. type p10k configure. Configuration wizard creates ~/.p10k.zsh based on your preferences.
 
-## zsh-autosuggestions
+# zsh-autosuggestions
 1. Clone this repository
   - git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 2. Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
-  - plugins=( 
-    # other plugins...
-    zsh-autosuggestions
-)
+  - plugins=(zsh-autosuggestions)
 3. Start a new terminal session.
 
 
