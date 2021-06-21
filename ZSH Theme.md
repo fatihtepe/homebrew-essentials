@@ -50,18 +50,22 @@ Powerlevel10k
 
 Configuration wizard creates `~/.p10k.zsh` based on your preferences.
 
-# zsh-autosuggestions
+# zsh-autosuggestions - zsh-syntax-highlighting
 
-1. Clone this repository
+1. Clone these repository
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 2. Add the plugin to the list of plugins for Oh My Zsh to load (inside `~/.zshrc`):
 ```
-plugins=(zsh-autosuggestions)
+plugins=(zsh-autosuggestions
+zsh-syntax-highlighting
+)
 ```
-3. Start a new terminal session.
+3. Start a new terminal session or run the following command:
 
-
-
-
+```
+source ~/.zshrc
+```
