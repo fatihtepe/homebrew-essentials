@@ -21,3 +21,19 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 ```
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 ```
+# Final Touch
+* neofetch which is a command-line system information tool that displays information about your OS, software, and hardware.
+
+`Install neofetch:`
+```
+Ubuntu 🐧: 
+sudo apt update 
+sudo apt install neofetch
+macOS  🍎: 
+brew install neofetch
+```
+then
+```
+vim .zshrc # neofetch
+source .zshrc
+```

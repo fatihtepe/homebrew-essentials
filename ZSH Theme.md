@@ -78,3 +78,5 @@ Update iTerm2:
 - Click on Font and select Hack Nerd Font
 - Click on Non-ASCII Font and select Hack Nerd Font
 - Make sure Use Ligatures is turned on for better experience
+
+## Final Touch
