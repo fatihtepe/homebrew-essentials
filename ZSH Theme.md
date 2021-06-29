@@ -69,3 +69,12 @@ zsh-syntax-highlighting
 ```
 source ~/.zshrc
 ```
+```
+brew tap homebrew/cask-fonts
+brew cask install font-hack-nerd-font
+```
+Update iTerm2:
+- Go to iTerm2 > Preferences > Profiles > Text
+- Click on Font and select Hack Nerd Font
+- Click on Non-ASCII Font and select Hack Nerd Font
+- Make sure Use Ligatures is turned on for better experience
