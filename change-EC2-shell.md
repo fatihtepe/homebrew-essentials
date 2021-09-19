@@ -10,8 +10,14 @@
 ```
 
 
-```or``` Thanks to @Tyler-Instructor check his suggestion:)
+```or```
 
 ```
 - PS1="\[\e[36m\]\u\[\e[m\]@\h-\w:\[\e[31m\]\\$\[\e[m\] "
+```
+
+```or``` try this one system
+
+```
+export PS1="\e[1;36m fatihtepePC/\W>>> \$ \e[m "
 ```
