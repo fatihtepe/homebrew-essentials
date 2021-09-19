@@ -2,7 +2,7 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-# Essential Apps 
+# Essential Apps
 ```
 - brew install --cask visual-studio-code
 - brew install --cask sublime-text
@@ -48,7 +48,7 @@ Install
 brew install htop
 ```
 
-linux ubuntu  
+linux ubuntu
 ```
 sudo snap install htop
 ```
@@ -59,7 +59,7 @@ The AWS CLI package is exactly what it sounds like, a CLI tool administrators an
 ```
 brew install awscli
 ```
-linux ubuntu 
+linux ubuntu
 ```
 sudo apt install awscli
 ```
@@ -72,7 +72,7 @@ Optional Apps
 - spectacle https://www.spectacleapp.com/​
 - https://aerialscreensaver.github.io/​
 ```
-* `Joplin` is a good space for tickable to-do lists. I use it to keep track on my work-related backlog. Each month, I create a new backlog and click and drag any unresolved tasks from the previous month. 
+* `Joplin` is a good space for tickable to-do lists. I use it to keep track on my work-related backlog. Each month, I create a new backlog and click and drag any unresolved tasks from the previous month.
 ```
 brew install --cask joplin
 ```
@@ -80,4 +80,10 @@ brew install --cask joplin
 * `Fanny` will display your fan RPM, CPU and GPU temperatures by reading the internal sensors. This is displayed at the top of the screen in the menu bar, so that you can monitor the CPU temperature at all times during usage.
 ```
 brew install --cask fanny
+```
+
+* `exa` Different types of file and data will be coloured differently, and the user and group columns will be highlighted for the current user.
+
+```
+brew install exa
 ```
