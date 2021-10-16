@@ -87,3 +87,9 @@ brew install --cask fanny
 ```
 brew install exa
 ```
+
+* `Lens` is the only IDE you’ll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. Lens is built on open source and free. Download it today!
+
+```
+brew install --cask lens
+```
