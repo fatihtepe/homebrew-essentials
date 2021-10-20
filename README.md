@@ -1,3 +1,3 @@
 # homebrew_essentials
 
-You can check here essential apps I use;
+Homebrew installs the stuff you need that Apple (or your Linux system) didn’t.
