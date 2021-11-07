@@ -93,3 +93,9 @@ brew install exa
 ```
 brew install --cask lens
 ```
+
+* `iproute2mac` It's actually a Python wrapper that provides a very similar API that you'll likely find very familiar to the ip tool included with iproute2 on Linux.
+
+```
+brew install iproute2mac
+```
