@@ -99,3 +99,16 @@ brew install --cask lens
 ```
 brew install iproute2mac
 ```
+
+
+* Ping, but with a graph. There is really nothing much to say about this; the only thing that comes to my mind is that is gorgeous.
+
+```
+brew install gping
+```
+
+* A cat(1) clone with syntax highlighting and Git integration. This is not just way more beautiful than cat, it is also quite more powerful.
+
+```
+brew install bat 
+```
